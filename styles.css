@@ -1,0 +1,37 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: brown;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px;
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+.dd {
+    width: 300px;
+    height: 350px;
+    margin: 0% auto;
+    display: block;
+
+}
+th, td {
+    border: 1px;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.tex{
+    text-align: center;
+}
+h2 {
+    color: brown;
+}
+form {
+    color: brown;
+    text-align: center;
+   
+}
